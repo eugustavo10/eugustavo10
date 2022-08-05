@@ -1,6 +1,6 @@
 # Sobre mim
 - 👋 Olá, meu nome é **@eugustavo10**
-- 👍 Meu email de contato é [Email](joao.myller.garcia@escola.pr.gov.br)
+- 👍 Meu email de contato é [Email](pedroso.rocha@escola.pr.gov.br)
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente com as linguagens  de JavaScript e Scratch
 
